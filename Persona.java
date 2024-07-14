@@ -7,7 +7,7 @@
  *
  * @author SkyNet
  */
-// Persona.java
+
 public class Persona {
     private String nombre;
     private int edad;
